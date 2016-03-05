@@ -1,3 +1,0 @@
-This is bar txt file.
-And it end's here.
-edited
